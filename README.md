@@ -2,7 +2,6 @@
 
 **Vaiu Voice Agent** is an intelligent voice-enabled AI agent that allows users to book restaurant tables through natural conversation. Built with the **MERN Stack** and **LiveKit**, it features real-time voice interaction, weather-based seating suggestions, and multi-language support (English & Hindi).
 
-![Dashboard Screenshot](./assets/dashboard.png)
 
 ## 🚀 Features
 
