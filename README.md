@@ -14,7 +14,7 @@
 *   **Weather Integration:** Automatically fetches weather for the booking date (via OpenWeatherMap) and suggests **Indoor vs. Outdoor** seating.
 
 ### Bonus Features (All Implemented 🌟)
-1.  **Natural Language Processing:** Powered by **GPT-4o-mini** for intelligent intent understanding.
+1.  **Natural Language Processing:** Powered by **Chat GPT** for intelligent intent understanding.
 2.  **Multi-language Support:** Fully supports **Hindi** and **English** voice commands with code-switching.
 3.  **Calendar Integration:** Visual availability checker in the dashboard to prevent double bookings.
 4.  **Notifications:** Sends real **SMS (Twilio)** and **Email (Nodemailer)** confirmations upon successful booking.
