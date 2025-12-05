@@ -146,4 +146,3 @@ npm run dev
 ---
 
 **Submitted by:** Vinit Kumar
-**GitHub:** [https://github.com/Shubham00-3/SayHungry](https://github.com/Shubham00-3/SayHungry)
